@@ -10,9 +10,9 @@ SO THAT USER can reliably retrieve them for later use
 
 ## Links
 
--   Github:
+-   Github: https://github.com/Abesmom4ever/19-PWA-Homework
 
--   Heroku:
+-   Heroku: https://pwaomework.herokuapp.com/
 
 ---
 
